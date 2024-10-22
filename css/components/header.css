@@ -95,6 +95,7 @@ margin-top: -0.6rem;
     flex-direction: column;
     gap: 1.2rem;
     background-image: url(../../images/rect-old.svg);
+    background-size: contain;
     
 }
 
@@ -168,6 +169,7 @@ margin-top: -2rem;
     width: 37rem;
     height: 11.5rem;
     background-image: url(../../images/header-img.png);
+    background-size: contain;
     margin-top: 3rem;
     padding: 2.6rem 5.3rem 3.3rem 13.2rem;
 }
