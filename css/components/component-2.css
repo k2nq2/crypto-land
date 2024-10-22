@@ -1,0 +1,38 @@
+.c2 {
+    padding-top: 3.4rem;
+    background-image: url(../../images/c2-bg.png);
+    width: 37rem;
+    height: 65.5rem;
+    background-size: contain;
+}
+.c2-subtitle{
+    font-family: var(--second-family);
+font-weight: 600;
+font-size: 1.4rem;
+line-height: 143%;
+text-transform: uppercase;
+text-align: center;
+color: #fff;
+margin-top: 0.8rem;
+}
+.c2-wrap{
+    display: flex;
+    flex-direction: column;
+    gap: 2.5rem;
+    margin-top: 25rem;
+}
+.c2-div{
+    display: flex;
+    gap: 1.8rem;
+}
+.c2-div img{
+    width: 5.5rem;
+    height: 5.5rem;
+}
+.c2-div p{
+    font-family: var(--second-family);
+font-weight: 400;
+font-size: 1.4rem;
+line-height: 143%;
+color: #fff;
+}

@@ -1,0 +1,53 @@
+.c6{
+    background-image: url(../../images/c6-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-y: -4rem;
+}
+.c6-subtext{
+    font-family: var(--second-family);
+font-weight: 600;
+font-size: 1.4rem;
+line-height: 143%;
+text-transform: uppercase;
+text-align: center;
+color: #989898;
+margin-top: 1.6rem;
+}
+.c6-wrap{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin-top: 5.6rem;
+}
+.c6-div{
+    display: flex;
+    gap: 3.5rem;
+    align-items: center;
+}
+.c6-div p{
+    font-family: var(--second-family);
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 125%;
+    text-transform: uppercase;
+    color: #fff;
+}
+.c6-div img{
+    height: 10rem;
+}
+.bonus{
+    width: 37rem;
+    height: 17rem;
+    margin-top: 3.9rem;
+    margin-bottom: 2rem
+}
+.c6-bottomtext{
+    font-family: var(--second-family);
+font-weight: 400;
+font-size: 1.4rem;
+line-height: 129%;
+text-align: center;
+color: #fff;
+margin-top: 2.5rem;
+}
