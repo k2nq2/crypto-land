@@ -29,7 +29,7 @@
     border: none;
 }
 .FAQ .accordion-item:last-child {
-    border-bottom: 1px solid #595959;
+    
 }
 
 .FAQ .accordion-header:before {
