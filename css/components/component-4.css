@@ -1,0 +1,35 @@
+.c4{
+    background-image: url(../../images/c4-bg.png);
+    background-size: contain;
+    padding-top: 4.2rem;
+    background-repeat: no-repeat;
+    padding-bottom: 3.8rem;
+    margin-top: 10rem;
+}
+.c4-wrap{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 1.4rem;
+    padding-bottom: 1rem;
+}
+.c4-div{
+    width: 17.9rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    margin-top: 3rem;
+}
+.c4-div img{
+    width: 6.3rem;
+    height: 4.9rem;
+}
+.c4-text{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 143%;
+    text-align: center;
+    color: #fff;
+}

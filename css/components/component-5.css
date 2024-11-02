@@ -1,0 +1,65 @@
+.c5{
+    background-image: url(../../images/c5-pers.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.c5-title{
+    font-family: var(--second-family);
+font-weight: 700;
+font-size: 5.2rem;
+line-height: 96%;
+text-align: center;
+background: radial-gradient(172.92% 105.12% at 52.38%  28.17%, rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.c5-div{
+    display: flex;
+    gap: 1.7rem ;
+}
+.c5-div img{
+    width: 2.2rem;
+    height: 2.2rem;
+}
+.c5-wrap{
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     gap: 2.3rem;
+     margin-top: 5.1rem;
+     padding-left: 6.5rem;
+}
+.c5-img{
+    margin-top: 39.3rem;
+    margin-bottom: 1.2rem;
+}
+.c5-img2{
+
+}
+.center{
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+}
+.c5-end-div{
+    width: 37rem;
+    height: 22.5rem;
+    background-image: url(../../images/c5-rect.png);
+    background-size: contain;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 2rem;
+    margin-top: 5.1rem;
+}
+.c5-end-div p{
+    font-family: var(--font-family);
+font-weight: 400;
+font-size: 1.4rem;
+line-height: 129%;
+text-align: center;
+color: #fff;
+}
